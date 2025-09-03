@@ -1,0 +1,6 @@
+﻿
+create database PREMIUM_CINEMA_DATABASE
+GO
+
+use PREMIUM_CINEMA_DATABASE
+GO
